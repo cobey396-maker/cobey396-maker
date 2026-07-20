@@ -8,8 +8,8 @@ I'm a developer building custom web applications, full-stack tools, and digital 
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[App Name]** | A brief 1-line summary of what the app does and the problem it solves. | HTML, CSS, JavaScript | [Live Demo](https://your-app-link.com) • [Repo](https://github.com/username/app-repo) |
-| **Cobeys Web Development** | I build modern websites for clients and develop data-driven software solutions from scratch. My focus is on writing clean, scalable code and turning complex ideas into smooth, responsive digital products. | Java, TailWind, Replit | [Live Site](https://cobeweb.netlify.app/pages/index.html) • [Repo](https://github.com/username/web-repo) |
+| **Budgetlock** | Budgetlock is a budgeting app i made for myself to help me save money, it tracks spending and how much you make ti help create a budget | HTML, CSS, JavaScript | [Live Demo](https://your-app-link.com) • [Repo](https://github.com/username/app-repo) |
+| **Cobeys Web Development** | I build modern websites for clients and develop data-driven software solutions from scratch. My focus is on writing clean, scalable code and turning complex ideas into smooth, responsive digital products. | Java, TailWind, Replit | [Live Site](https://cobeweb.netlify.app/pages/index.html) • [Repo |
 | **Tradey Mcgradey** |A day trading bot that uses signals to find my strategy at any time and automaticall yenters the trade | Python, Node.js | [Repo](https://github.com/username/tool-repo) |
 
 ---
