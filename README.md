@@ -24,7 +24,7 @@ I'm a developer building custom web applications, full-stack tools, and digital 
 
 ### 📬 Connect & Contact
 
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/cobeydelapp]([https://linkedin.com](https://www.linkedin.com/in/cobey-delapp-105340414/))
 * 📧 **Email:** `cobeydelapp87@gmail.com`
 
 <!--
